@@ -1,3 +1,5 @@
+%This is ldorsal file
+
 function I=Idorsal(iter,R1,L_dorsal_l,L0l,M,P)
 N=12;%-> no. of neural units
 N_out=4;%->M/N
